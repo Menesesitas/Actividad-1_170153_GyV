@@ -1,0 +1,33 @@
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.exe.config
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.Form1.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\Fig 1\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.pdb
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.exe.config
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.exe
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.pdb
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.AssemblyReference.cache
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.SuggestedBindingRedirects.cache
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.Form1.resources
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.Properties.Resources.resources
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.GenerateResource.cache
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.exe
+D:\Libraries\Documents\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.exe.config
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\bin\Debug\Graphic_Engine.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.Form1.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\Figuras\def_tal vez\Perspectiva-3D-Graficacion-y-Videojuegos-main\obj\Debug\Graphic_Engine.pdb
